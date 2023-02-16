@@ -12,6 +12,6 @@ public class Demo {
         System.out.println("hot-fix");
         System.out.println("hot-fix test");
         System.out.println("master test");
-
+        System.out.println("git push");
     }
 }
